@@ -107,7 +107,7 @@ Nhập trực tiếp đường dẫn game
 2. Dán:
 
 ```text
-powershell -ExecutionPolicy Bypass -NoProfile -Command "irm https://raw.githubusercontent.com/CallMeDangDev/WuwaVH/main/wuwa-update.ps1 | iex"
+powershell -NoProfile -Command "irm https://raw.githubusercontent.com/CallMeDangDev/WuwaVH/main/wuwa-update.ps1 | iex"
 ```
 
 3. Đặt tên, ví dụ: `Update Wuwa Viet Hoa`
