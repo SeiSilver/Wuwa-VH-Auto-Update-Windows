@@ -35,7 +35,7 @@ Client\Binaries\Win64\
 Mở PowerShell và chạy:
 
 ```powershell
-irm https://raw.githubusercontent.com/CallMeDangDev/WuwaVH/main/wuwa-update.ps1 | iex
+(irm https://raw.githubusercontent.com/SeiSilver/Wuwa-VH-Auto-Update-Windows/main/wuwa-update.ps1).ToString() | iex
 ```
 
 Script sẽ:
@@ -58,7 +58,7 @@ Script sẽ:
 Mở PowerShell và chạy:
 
 ```powershell
-(irm https://raw.githubusercontent.com/SeiSilver/Wuwa-VH-Auto-Update-Windows/main/wuwa-update.ps1).ToString() | iex
+(irm https://raw.githubusercontent.com/SeiSilver/Wuwa-VH-Auto-Update-Windows/main/wuwa-clean-mod.ps1).ToString() | iex
 ```
 
 Script sẽ xoá:
