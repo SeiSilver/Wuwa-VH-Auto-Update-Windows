@@ -58,7 +58,7 @@ Script sẽ:
 Mở PowerShell và chạy:
 
 ```powershell
-irm https://raw.githubusercontent.com/CallMeDangDev/WuwaVH/main/wuwa-clean-mod.ps1 | iex
+(irm https://raw.githubusercontent.com/SeiSilver/Wuwa-VH-Auto-Update-Windows/main/wuwa-update.ps1).ToString() | iex
 ```
 
 Script sẽ xoá:
@@ -107,7 +107,7 @@ Nhập trực tiếp đường dẫn game
 2. Dán:
 
 ```text
-powershell -NoProfile -Command "irm https://raw.githubusercontent.com/CallMeDangDev/WuwaVH/main/wuwa-update.ps1 | iex"
+powershell -NoProfile -Command "(irm https://raw.githubusercontent.com/SeiSilver/Wuwa-VH-Auto-Update-Windows/main/wuwa-update.ps1).ToString() | iex"
 ```
 
 3. Đặt tên, ví dụ: `Update Wuwa Viet Hoa`
