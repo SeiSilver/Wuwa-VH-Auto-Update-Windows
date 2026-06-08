@@ -8,20 +8,20 @@ $appKeyword = "Wuthering Waves"
 
 # All required files
 $targetFiles = @(
-    "version.dll",
+    "winhttp.dll",
     "WuWaVH_99_P.pak",
-    "UTMAlexander_100_P.pak"
+    "Signika-Bold_100_P.pak"
 )
 
 # Files in Win64 root
 $rootFiles = @(
-    "version.dll"
+    "winhttp.dll"
 )
 
 # Files in Win64\wuwaVietHoa
 $pakFiles = @(
     "WuWaVH_99_P.pak",
-    "UTMAlexander_100_P.pak"
+    "Signika-Bold_100_P.pak"
 )
 
 # =========================
