@@ -4,12 +4,12 @@
 $appKeyword = "Wuthering Waves"
 
 $rootFiles = @(
-    "version.dll"
+    "winhttp.dll"
 )
 
 $pakFiles = @(
     "WuWaVH_99_P.pak",
-    "UTMAlexander_100_P.pak"
+    "Signika-Bold_100_P.pak"
 )
 
 # =========================
